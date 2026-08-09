@@ -23,6 +23,7 @@
 4. 没有明确开放再分发许可的标准、指南、教材或期刊全文不上传；改存到 `references/linked/`，提供完整引文和官方入口。
 5. “可在线阅读”不等于“允许在 GitHub 再分发”。许可不清时一律采用链接模式。
 6. 仓库不保存成片、口播音频、封面、未公开制作文件、账号信息或付费数据库内容。
+7. 每期B站简介必须直接附上本仓库地址：`https://github.com/GuiMing555/bilibili-medical-references`。
 
 ## 已归档视频
 
@@ -33,4 +34,3 @@
 仓库自行编写的索引、说明和校验脚本采用 [CC BY 4.0](./LICENSE.md)。第三方文献仍适用原作者或发布机构声明的许可，详见每期 `references.csv` 和 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)。
 
 本仓库用于资料追溯和医学科普透明度建设，不替代临床指南、原始论文或个体化医疗建议。
-
