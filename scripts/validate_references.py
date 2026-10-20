@@ -98,7 +98,7 @@ def validate_manifest(path: Path) -> list[str]:
 
 
 def main() -> int:
-    manifests = sorted(ROOT.glob("*/*/[0-9][0-9]/references.csv"))
+    manifests = sorted(ROOT.glob("**/[0-9][0-9]/references.csv"))
     if not manifests:
         print("No episode manifests found")
         return 1
